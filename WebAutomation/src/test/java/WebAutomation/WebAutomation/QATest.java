@@ -16,7 +16,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 class QATest {
 	
-	String pathOfChromeDriver = "C:\\Python\\Scripts\\chromedriver.exe";
+	String pathOfChromeDriver = "C:\\Python37\\Scripts\\chromedriver.exe";
 	String URL = "https://marksandspicy.com";
 	public WebDriver driver;
 
